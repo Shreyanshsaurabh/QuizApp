@@ -1,0 +1,29 @@
+.whole{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.container{
+width: 640px;
+margin-top: 300px;
+margin: auto;
+background: aliceblue;
+color: black;
+display: flex;
+flex-direction: column;
+gap:20px;
+border-radius: 20px;
+padding: 40px 50px;
+box-shadow: 0px 2px 20px black;
+}
+label{
+    font-size: 30px;
+}
+input{
+   height: 30px;
+   width: 300px;
+}
+select{
+   height: 30px;
+   width: 190px;
+}

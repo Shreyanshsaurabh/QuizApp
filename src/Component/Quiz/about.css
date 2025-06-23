@@ -1,0 +1,13 @@
+.about-container{
+width: 640px;
+margin: auto;
+margin-top: 150px;
+background: aliceblue;
+color: black;
+display: flex;
+flex-direction: column;
+gap:20px;
+border-radius: 20px;
+padding: 40px 50px;
+box-shadow: 0px 2px 20px black;
+}
